@@ -103,3 +103,13 @@ All colors MUST be HSL.
     @apply bg-background text-foreground;
   }
 }
+
+/* Elfsight Widget Styles */
+.WidgetTitle__Header-sc-c581efe-2 {
+  padding-top: 48px !important;
+}
+
+.GridLayoutLegacy__Component-sc-d3b1d78-0,
+.eapp-team-showcase-grid-component {
+  padding: 16px 16px 48px 16px !important;
+}
